@@ -23,3 +23,5 @@ var isValid = function(s) {
 isValid("()[]{}");
 console.log("heelo ")
 console.log("hai")
+console.log("heelo ")
+console.log("hai")
