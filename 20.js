@@ -48,7 +48,3 @@ var isValid = function(s) {
     return stack.length === 0;
 };
 isValid("()[]{}");
-console.log("heelo ")
-console.log("hai")
-console.log("heelo ")
-console.log("hai")
