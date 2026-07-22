@@ -9,5 +9,5 @@ var rob = function(nums) {
      }
      console.log(newArr)
 };
-
+console.log("hello")
 rob([1,4,2])
