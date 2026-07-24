@@ -10,4 +10,3 @@ var rob = function(nums) {
      console.log(newArr)
 };
 rob([1,4,2])
-console.log("hello")
