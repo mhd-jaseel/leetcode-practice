@@ -13,9 +13,9 @@ console.log(age)
 let x= 5
 console.log(--x)
 
-// console.log(++x)
-// console.log(x++)
-// console.log(x--)
+console.log(++x)
+console.log(x++)
+console.log(x--)
 let value = 0;
 
 console.log(value ?? 100);
