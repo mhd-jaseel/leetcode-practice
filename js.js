@@ -19,3 +19,31 @@ console.log(x--)
 let value = 0;
 
 console.log(value ?? 100);
+
+
+// function greet (){
+//     console.log("hello")
+// }
+// function callback(fn){
+//     fn()
+// }
+
+// callback(greet)
+
+
+(function (){
+    console.log("hai")
+})()
+
+//pure
+function add(a,b){
+    return a+b
+}
+console.log(add(4,5))
+ //impure
+
+ let value1 =20 
+ function dub(){
+   console.log(value1*2)
+ }
+ dub()
