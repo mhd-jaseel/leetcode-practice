@@ -8,4 +8,3 @@ var nums2 = [2,5,6]
 // };
 
 let arr =nums1.concat(nums2)
-console.log("hello ")
