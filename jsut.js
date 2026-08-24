@@ -1,0 +1,10 @@
+// let a = "jaseel"
+// let rev=""
+// for(let i = a.length-1 ;i>=0;i--){
+//   rev+=a[i]
+// }
+// console.log(rev)
+
+let b="mohammed"
+let c= b.length
+console.log (c)
