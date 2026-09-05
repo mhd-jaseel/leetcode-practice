@@ -1,6 +1,9 @@
-let str ="jaseel"
-let rev=''
-for (let i =str.length-1;i>=0;i--){
-    rev+=str[i]
+function reverse(n){
+    let rev=''
+    for(i=n.length-1;i>=0;i--){
+      rev+=n[i]
+
+    }
+    return rev
 }
-console.log(rev)
+console.log(reverse("jaseel"))
